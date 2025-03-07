@@ -1,0 +1,11 @@
+Distancia_km,Cantidad_Productos,Hora_Pedido,Dia_Semana,Tipo_Transporte,Clima,Trafico
+29.352465823520763,18,4,1,Camion,Lluvia,Leve
+57.58500101408589,75,20,1,Camion,Nieve,Alto
+88.86770314875885,102,13,1,Camion,Nieve,Leve
+30.334265725654795,20,13,0,Camion,Nieve,Leve
+8.64491338167939,117,3,0,Bicicleta,Nieve,Leve
+8.64373149647393,174,1,1,Moto,Soleado,Moderado
+3.8460969962417737,117,1,0,Moto,Lluvia,Moderado
+43.44263114297183,173,16,0,Bicicleta,Lluvia,Alto
+70.45463557541723,4,9,1,Bicicleta,Nieve,Alto
+35.69555631200623,84,13,0,Biciclet,Lluvia,Alto
